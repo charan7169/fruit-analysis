@@ -1,0 +1,6 @@
+{
+  "name": "Fruit Shop Sales Analysis — Interactive 3D Data Analytics Dashboard",
+  "description": "Fruit Analysis: Interactive 3D & 2D Fruit Shop Sales Analysis Dashboard with Pandas-style DataFrame, CSV upload/export, and 10-Section Python Lab Report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
